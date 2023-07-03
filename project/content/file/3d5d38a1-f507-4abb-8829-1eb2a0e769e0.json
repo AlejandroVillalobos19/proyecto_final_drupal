@@ -1,0 +1,87 @@
+{
+    "_links": {
+        "self": {
+            "href": "https:\/\/8080-alejandrovi-proyectofin-whxjs1vvyhs.ws-us101.gitpod.io\/sites\/default\/files\/2023-07\/134937167_1717805518397166_8005241183451032338_n.jpg"
+        },
+        "type": {
+            "href": "https:\/\/8080-alejandrovi-proyectofin-whxjs1vvyhs.ws-us101.gitpod.io\/rest\/type\/file\/file"
+        },
+        "https:\/\/8080-alejandrovi-proyectofin-whxjs1vvyhs.ws-us101.gitpod.io\/rest\/relation\/file\/file\/uid": [
+            {
+                "href": "https:\/\/8080-alejandrovi-proyectofin-whxjs1vvyhs.ws-us101.gitpod.io\/user\/1?_format=hal_json"
+            }
+        ]
+    },
+    "fid": [
+        {
+            "value": 2
+        }
+    ],
+    "uuid": [
+        {
+            "value": "3d5d38a1-f507-4abb-8829-1eb2a0e769e0"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "_embedded": {
+        "https:\/\/8080-alejandrovi-proyectofin-whxjs1vvyhs.ws-us101.gitpod.io\/rest\/relation\/file\/file\/uid": [
+            {
+                "_links": {
+                    "self": {
+                        "href": "https:\/\/8080-alejandrovi-proyectofin-whxjs1vvyhs.ws-us101.gitpod.io\/user\/1?_format=hal_json"
+                    },
+                    "type": {
+                        "href": "https:\/\/8080-alejandrovi-proyectofin-whxjs1vvyhs.ws-us101.gitpod.io\/rest\/type\/user\/user"
+                    }
+                },
+                "uuid": [
+                    {
+                        "value": "c29d76d3-d1d7-4837-9ee2-8be44fe591ce"
+                    }
+                ]
+            }
+        ]
+    },
+    "filename": [
+        {
+            "value": "134937167_1717805518397166_8005241183451032338_n.jpg"
+        }
+    ],
+    "uri": [
+        {
+            "value": "public:\/\/2023-07\/134937167_1717805518397166_8005241183451032338_n.jpg",
+            "url": "\/sites\/default\/files\/2023-07\/134937167_1717805518397166_8005241183451032338_n.jpg"
+        }
+    ],
+    "filemime": [
+        {
+            "value": "image\/jpeg"
+        }
+    ],
+    "filesize": [
+        {
+            "value": 159048
+        }
+    ],
+    "status": [
+        {
+            "value": true
+        }
+    ],
+    "created": [
+        {
+            "value": "2023-07-03T03:05:43+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "changed": [
+        {
+            "value": "2023-07-03T03:05:49+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ]
+}

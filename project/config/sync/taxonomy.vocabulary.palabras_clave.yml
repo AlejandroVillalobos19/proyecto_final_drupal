@@ -1,0 +1,8 @@
+uuid: 4360ebe6-a20b-453f-9e31-d5bb4915c67e
+langcode: en
+status: true
+dependencies: {  }
+name: 'Palabras clave'
+vid: palabras_clave
+description: 'Palabras clave que describen un post'
+weight: 0

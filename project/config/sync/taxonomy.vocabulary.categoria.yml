@@ -1,0 +1,8 @@
+uuid: 3e99ffa1-ae1f-4e59-ab13-c93aa18b0e67
+langcode: en
+status: true
+dependencies: {  }
+name: Categoría
+vid: categoria
+description: 'Define la categoría del post'
+weight: 0

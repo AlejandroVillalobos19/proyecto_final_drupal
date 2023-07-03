@@ -1,0 +1,87 @@
+{
+    "_links": {
+        "self": {
+            "href": "https:\/\/8080-alejandrovi-proyectofin-whxjs1vvyhs.ws-us101.gitpod.io\/sites\/default\/files\/2023-07\/Drupal%2010.jpg"
+        },
+        "type": {
+            "href": "https:\/\/8080-alejandrovi-proyectofin-whxjs1vvyhs.ws-us101.gitpod.io\/rest\/type\/file\/file"
+        },
+        "https:\/\/8080-alejandrovi-proyectofin-whxjs1vvyhs.ws-us101.gitpod.io\/rest\/relation\/file\/file\/uid": [
+            {
+                "href": "https:\/\/8080-alejandrovi-proyectofin-whxjs1vvyhs.ws-us101.gitpod.io\/user\/1?_format=hal_json"
+            }
+        ]
+    },
+    "fid": [
+        {
+            "value": 3
+        }
+    ],
+    "uuid": [
+        {
+            "value": "90f20e17-1b1d-4821-b84b-37cb8f9b2ac9"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "_embedded": {
+        "https:\/\/8080-alejandrovi-proyectofin-whxjs1vvyhs.ws-us101.gitpod.io\/rest\/relation\/file\/file\/uid": [
+            {
+                "_links": {
+                    "self": {
+                        "href": "https:\/\/8080-alejandrovi-proyectofin-whxjs1vvyhs.ws-us101.gitpod.io\/user\/1?_format=hal_json"
+                    },
+                    "type": {
+                        "href": "https:\/\/8080-alejandrovi-proyectofin-whxjs1vvyhs.ws-us101.gitpod.io\/rest\/type\/user\/user"
+                    }
+                },
+                "uuid": [
+                    {
+                        "value": "c29d76d3-d1d7-4837-9ee2-8be44fe591ce"
+                    }
+                ]
+            }
+        ]
+    },
+    "filename": [
+        {
+            "value": "Drupal 10.jpg"
+        }
+    ],
+    "uri": [
+        {
+            "value": "public:\/\/2023-07\/Drupal 10.jpg",
+            "url": "\/sites\/default\/files\/2023-07\/Drupal%2010.jpg"
+        }
+    ],
+    "filemime": [
+        {
+            "value": "image\/jpeg"
+        }
+    ],
+    "filesize": [
+        {
+            "value": 17644
+        }
+    ],
+    "status": [
+        {
+            "value": true
+        }
+    ],
+    "created": [
+        {
+            "value": "2023-07-03T03:37:37+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "changed": [
+        {
+            "value": "2023-07-03T03:37:44+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ]
+}

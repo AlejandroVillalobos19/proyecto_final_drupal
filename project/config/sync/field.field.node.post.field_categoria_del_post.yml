@@ -1,0 +1,29 @@
+uuid: 2dea64e6-1b46-43d8-b31a-8e8bdc205269
+langcode: en
+status: true
+dependencies:
+  config:
+    - field.storage.node.field_categoria_del_post
+    - node.type.post
+    - taxonomy.vocabulary.categoria
+id: node.post.field_categoria_del_post
+field_name: field_categoria_del_post
+entity_type: node
+bundle: post
+label: 'Categoría del post'
+description: 'Elije la categoría a la que pertenece el post.'
+required: true
+translatable: false
+default_value: {  }
+default_value_callback: ''
+settings:
+  handler: 'default:taxonomy_term'
+  handler_settings:
+    target_bundles:
+      categoria: categoria
+    sort:
+      field: name
+      direction: asc
+    auto_create: false
+    auto_create_bundle: ''
+field_type: entity_reference

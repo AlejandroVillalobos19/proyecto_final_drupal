@@ -1,0 +1,276 @@
+{
+    "_links": {
+        "self": {
+            "href": "https:\/\/8080-alejandrovi-proyectofin-whxjs1vvyhs.ws-us101.gitpod.io\/node\/3?_format=hal_json"
+        },
+        "type": {
+            "href": "https:\/\/8080-alejandrovi-proyectofin-whxjs1vvyhs.ws-us101.gitpod.io\/rest\/type\/node\/post"
+        },
+        "https:\/\/8080-alejandrovi-proyectofin-whxjs1vvyhs.ws-us101.gitpod.io\/rest\/relation\/node\/post\/revision_uid": [
+            {
+                "href": "https:\/\/8080-alejandrovi-proyectofin-whxjs1vvyhs.ws-us101.gitpod.io\/user\/1?_format=hal_json"
+            }
+        ],
+        "https:\/\/8080-alejandrovi-proyectofin-whxjs1vvyhs.ws-us101.gitpod.io\/rest\/relation\/node\/post\/uid": [
+            {
+                "href": "https:\/\/8080-alejandrovi-proyectofin-whxjs1vvyhs.ws-us101.gitpod.io\/user\/1?_format=hal_json",
+                "lang": "en"
+            }
+        ],
+        "https:\/\/8080-alejandrovi-proyectofin-whxjs1vvyhs.ws-us101.gitpod.io\/rest\/relation\/node\/post\/field_categoria_del_post": [
+            {
+                "href": "https:\/\/8080-alejandrovi-proyectofin-whxjs1vvyhs.ws-us101.gitpod.io\/taxonomy\/term\/2?_format=hal_json"
+            }
+        ],
+        "https:\/\/8080-alejandrovi-proyectofin-whxjs1vvyhs.ws-us101.gitpod.io\/rest\/relation\/node\/post\/field_imagen_del_post": [
+            {
+                "href": "https:\/\/8080-alejandrovi-proyectofin-whxjs1vvyhs.ws-us101.gitpod.io\/media\/3\/edit?_format=hal_json"
+            }
+        ],
+        "https:\/\/8080-alejandrovi-proyectofin-whxjs1vvyhs.ws-us101.gitpod.io\/rest\/relation\/node\/post\/field_palabras_clave": [
+            {
+                "href": "https:\/\/8080-alejandrovi-proyectofin-whxjs1vvyhs.ws-us101.gitpod.io\/taxonomy\/term\/13?_format=hal_json"
+            },
+            {
+                "href": "https:\/\/8080-alejandrovi-proyectofin-whxjs1vvyhs.ws-us101.gitpod.io\/taxonomy\/term\/9?_format=hal_json"
+            },
+            {
+                "href": "https:\/\/8080-alejandrovi-proyectofin-whxjs1vvyhs.ws-us101.gitpod.io\/taxonomy\/term\/12?_format=hal_json"
+            }
+        ]
+    },
+    "nid": [
+        {
+            "value": 3
+        }
+    ],
+    "uuid": [
+        {
+            "value": "d6d3f05b-e327-48dd-b0a3-9958525a393d"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en",
+            "lang": "en"
+        }
+    ],
+    "type": [
+        {
+            "target_id": "post"
+        }
+    ],
+    "revision_timestamp": [
+        {
+            "value": "2023-07-03T04:23:43+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "_embedded": {
+        "https:\/\/8080-alejandrovi-proyectofin-whxjs1vvyhs.ws-us101.gitpod.io\/rest\/relation\/node\/post\/revision_uid": [
+            {
+                "_links": {
+                    "self": {
+                        "href": "https:\/\/8080-alejandrovi-proyectofin-whxjs1vvyhs.ws-us101.gitpod.io\/user\/1?_format=hal_json"
+                    },
+                    "type": {
+                        "href": "https:\/\/8080-alejandrovi-proyectofin-whxjs1vvyhs.ws-us101.gitpod.io\/rest\/type\/user\/user"
+                    }
+                },
+                "uuid": [
+                    {
+                        "value": "c29d76d3-d1d7-4837-9ee2-8be44fe591ce"
+                    }
+                ]
+            }
+        ],
+        "https:\/\/8080-alejandrovi-proyectofin-whxjs1vvyhs.ws-us101.gitpod.io\/rest\/relation\/node\/post\/uid": [
+            {
+                "_links": {
+                    "self": {
+                        "href": "https:\/\/8080-alejandrovi-proyectofin-whxjs1vvyhs.ws-us101.gitpod.io\/user\/1?_format=hal_json"
+                    },
+                    "type": {
+                        "href": "https:\/\/8080-alejandrovi-proyectofin-whxjs1vvyhs.ws-us101.gitpod.io\/rest\/type\/user\/user"
+                    }
+                },
+                "uuid": [
+                    {
+                        "value": "c29d76d3-d1d7-4837-9ee2-8be44fe591ce"
+                    }
+                ],
+                "lang": "en"
+            }
+        ],
+        "https:\/\/8080-alejandrovi-proyectofin-whxjs1vvyhs.ws-us101.gitpod.io\/rest\/relation\/node\/post\/field_categoria_del_post": [
+            {
+                "_links": {
+                    "self": {
+                        "href": "https:\/\/8080-alejandrovi-proyectofin-whxjs1vvyhs.ws-us101.gitpod.io\/taxonomy\/term\/2?_format=hal_json"
+                    },
+                    "type": {
+                        "href": "https:\/\/8080-alejandrovi-proyectofin-whxjs1vvyhs.ws-us101.gitpod.io\/rest\/type\/taxonomy_term\/categoria"
+                    }
+                },
+                "uuid": [
+                    {
+                        "value": "668d0fd9-85e9-4dab-9235-18a49c83cc28"
+                    }
+                ]
+            }
+        ],
+        "https:\/\/8080-alejandrovi-proyectofin-whxjs1vvyhs.ws-us101.gitpod.io\/rest\/relation\/node\/post\/field_imagen_del_post": [
+            {
+                "_links": {
+                    "self": {
+                        "href": "https:\/\/8080-alejandrovi-proyectofin-whxjs1vvyhs.ws-us101.gitpod.io\/media\/3\/edit?_format=hal_json"
+                    },
+                    "type": {
+                        "href": "https:\/\/8080-alejandrovi-proyectofin-whxjs1vvyhs.ws-us101.gitpod.io\/rest\/type\/media\/image"
+                    }
+                },
+                "uuid": [
+                    {
+                        "value": "e562e31e-c9f3-4e38-8f93-ebb8f788f3bb"
+                    }
+                ]
+            }
+        ],
+        "https:\/\/8080-alejandrovi-proyectofin-whxjs1vvyhs.ws-us101.gitpod.io\/rest\/relation\/node\/post\/field_palabras_clave": [
+            {
+                "_links": {
+                    "self": {
+                        "href": "https:\/\/8080-alejandrovi-proyectofin-whxjs1vvyhs.ws-us101.gitpod.io\/taxonomy\/term\/13?_format=hal_json"
+                    },
+                    "type": {
+                        "href": "https:\/\/8080-alejandrovi-proyectofin-whxjs1vvyhs.ws-us101.gitpod.io\/rest\/type\/taxonomy_term\/palabras_clave"
+                    }
+                },
+                "uuid": [
+                    {
+                        "value": "5d99a8a7-dd7b-4cb4-b2d4-fecab7e2492e"
+                    }
+                ]
+            },
+            {
+                "_links": {
+                    "self": {
+                        "href": "https:\/\/8080-alejandrovi-proyectofin-whxjs1vvyhs.ws-us101.gitpod.io\/taxonomy\/term\/9?_format=hal_json"
+                    },
+                    "type": {
+                        "href": "https:\/\/8080-alejandrovi-proyectofin-whxjs1vvyhs.ws-us101.gitpod.io\/rest\/type\/taxonomy_term\/palabras_clave"
+                    }
+                },
+                "uuid": [
+                    {
+                        "value": "5dd7baae-d895-4b75-9003-e1baa6393261"
+                    }
+                ]
+            },
+            {
+                "_links": {
+                    "self": {
+                        "href": "https:\/\/8080-alejandrovi-proyectofin-whxjs1vvyhs.ws-us101.gitpod.io\/taxonomy\/term\/12?_format=hal_json"
+                    },
+                    "type": {
+                        "href": "https:\/\/8080-alejandrovi-proyectofin-whxjs1vvyhs.ws-us101.gitpod.io\/rest\/type\/taxonomy_term\/palabras_clave"
+                    }
+                },
+                "uuid": [
+                    {
+                        "value": "035447c0-0790-4b0a-844d-f216e8888cae"
+                    }
+                ]
+            }
+        ]
+    },
+    "status": [
+        {
+            "value": true,
+            "lang": "en"
+        }
+    ],
+    "title": [
+        {
+            "value": "Mejorar Velocidad al Cargar",
+            "lang": "en"
+        }
+    ],
+    "created": [
+        {
+            "value": "2023-07-03T04:23:43+00:00",
+            "lang": "en",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "changed": [
+        {
+            "value": "2023-07-03T04:25:07+00:00",
+            "lang": "en",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "promote": [
+        {
+            "value": true,
+            "lang": "en"
+        }
+    ],
+    "sticky": [
+        {
+            "value": false,
+            "lang": "en"
+        }
+    ],
+    "default_langcode": [
+        {
+            "value": true,
+            "lang": "en"
+        }
+    ],
+    "revision_translation_affected": [
+        {
+            "value": true,
+            "lang": "en"
+        }
+    ],
+    "path": [
+        {
+            "alias": null,
+            "pid": null,
+            "langcode": "en",
+            "lang": "en"
+        }
+    ],
+    "body": [
+        {
+            "value": "<p>There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable. If you are going to use a passage of Lorem Ipsum, you need to be sure there isn't anything embarrassing hidden in the middle of text. All the Lorem Ipsum generators on the Internet tend to repeat predefined chunks as necessary, making this the first true generator on the Internet. It uses a dictionary of over 200 Latin words, combined with a handful of model sentence structures, to generate Lorem Ipsum which looks reasonable. The generated Lorem Ipsum is therefore always free from repetition, injected humour, or non-characteristic words etc.<br><br>There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable. If you are going to use a passage of Lorem Ipsum, you need to be sure there isn't anything embarrassing hidden in the middle of text. All the Lorem Ipsum generators on the Internet tend to repeat predefined chunks as necessary, making this the first true generator on the Internet. It uses a dictionary of over 200 Latin words, combined with a handful of model sentence structures, to generate Lorem Ipsum which looks reasonable. The generated Lorem Ipsum is therefore always free from repetition, injected humour, or non-characteristic words etc.<\/p>",
+            "format": "basic_html",
+            "processed": "<p>There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable. If you are going to use a passage of Lorem Ipsum, you need to be sure there isn't anything embarrassing hidden in the middle of text. All the Lorem Ipsum generators on the Internet tend to repeat predefined chunks as necessary, making this the first true generator on the Internet. It uses a dictionary of over 200 Latin words, combined with a handful of model sentence structures, to generate Lorem Ipsum which looks reasonable. The generated Lorem Ipsum is therefore always free from repetition, injected humour, or non-characteristic words etc.<br \/><br \/>There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable. If you are going to use a passage of Lorem Ipsum, you need to be sure there isn't anything embarrassing hidden in the middle of text. All the Lorem Ipsum generators on the Internet tend to repeat predefined chunks as necessary, making this the first true generator on the Internet. It uses a dictionary of over 200 Latin words, combined with a handful of model sentence structures, to generate Lorem Ipsum which looks reasonable. The generated Lorem Ipsum is therefore always free from repetition, injected humour, or non-characteristic words etc.<\/p>",
+            "summary": "",
+            "lang": "en"
+        }
+    ],
+    "field_enlaces_relacionados": [
+        {
+            "uri": "http:\/\/Facebook.com",
+            "title": "Facebook",
+            "options": []
+        },
+        {
+            "uri": "http:\/\/Instagram.com",
+            "title": "Instagram",
+            "options": []
+        }
+    ],
+    "field_seccion_de_comentarios": [
+        {
+            "status": 2,
+            "cid": 0,
+            "last_comment_timestamp": 1688358307,
+            "last_comment_name": null,
+            "last_comment_uid": 1,
+            "comment_count": 0
+        }
+    ]
+}

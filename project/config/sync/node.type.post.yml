@@ -1,0 +1,17 @@
+uuid: 39444970-115c-4f90-a0ec-460fca8e2213
+langcode: en
+status: true
+dependencies:
+  module:
+    - menu_ui
+third_party_settings:
+  menu_ui:
+    available_menus: {  }
+    parent: ''
+name: Post
+type: post
+description: 'Para ccrear un nuevo post'
+help: ''
+new_revision: false
+preview_mode: 1
+display_submitted: true
